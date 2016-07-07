@@ -16,6 +16,14 @@ The main topic of ths lecture is Gaussian Process regression: how to specify the
     + Chapters: 2, 4, 5.1, & 5.4.2
 - [Roustant, Olivier, David Ginsbourger, and Yves Deville. "DiceKriging, DiceOptim: Two R packages for the analysis of computer experiments by kriging-based metamodeling and optimization." (2012).](https://www.jstatsoft.org/article/view/v051i01/v51i01.pdf)
 
+## Installation of Required Software for practice
+
+You are required to install R.
+- To install R, follow the instructions [here](https://cran.r-project.org/)
+- To install the required packages in R, open R terminal and copy/paste:
+	+ install.packages('DiceKriging', repos = "http://cran.us.r-project.org")
+	+ install.packages('lhs', repos = "http://cran.us.r-project.org")
+
 ## Slides and running example
 
 The slides of the lecture are available [here](./slides.pdf)
@@ -25,16 +33,9 @@ Running examples:
 - [The Piston Simulation function model in 2D](./Practice_2D.ipynb)
 
 
-## Installation of Required Software for practice
-
+## Handouts
 
 After the lecture there will be a practice session. 
-
-- You are required to install R.
-	- To install R, follow the instructions [here](https://cran.r-project.org/)
-	- To install the required packages in R, open R terminal and copy/paste:
-		+ install.packages('DiceKriging', repos = "http://cran.us.r-project.org")
-		+ install.packages('lhs', repos = "http://cran.us.r-project.org")
 
 Practice (You can use the R package [DiceKriging](https://cran.r-project.org/web/packages/DiceKriging/index.html))
 - [Practice Catalytic Reaction 5D](./Practice_CatalyticReaction_5D.ipynb)
