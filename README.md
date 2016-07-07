@@ -1,10 +1,8 @@
 # Introduction to the Gaussian process regression
 
-Course
-    SURF 2016
+Georgios Karagiannis, Department of Mathematics, Purdue
 
-Lecturer :
-    Georgios Karagiannis, Department of Mathematics, Purdue
+SURF 2016
 
 July 8, 2016
 
@@ -30,8 +28,13 @@ Running examples:
 ## Installation of Required Software for practice
 
 
-After the lecture there will be a practice session. You are required to install R, and JUPYTER-R (optionally). 
-- Instructions can be found [here](./INSTALL.md)
+After the lecture there will be a practice session. 
+
+- You are required to install R.
+	- To install R, follow the instructions [here](https://cran.r-project.org/)
+	- To install the required packages in R, open R terminal and copy/paste:
+		install.packages('DiceKriging', repos = "http://cran.us.r-project.org")
+		install.packages('lhs', repos = "http://cran.us.r-project.org")
 
 Practice (You can use the R package [DiceKriging](https://cran.r-project.org/web/packages/DiceKriging/index.html))
 - [Practice Catalytic Reaction 5D](./Practice_CatalyticReaction_5D.ipynb)
