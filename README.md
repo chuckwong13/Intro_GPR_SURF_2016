@@ -17,7 +17,7 @@ July 8, 2016
 
 
 After the lecture there will be a practice session. You are required to install R, and JUPYTER-R (optionally). 
-	- Instructions can be found [here](./INSTALL.md)
+- Instructions can be found [here](./INSTALL.md)
 
 
 
