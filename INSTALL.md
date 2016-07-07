@@ -1,6 +1,6 @@
 # Installation of Required Software to run the examples and handouts
 
-## Install R (**MANDATORY**):
+## Install R (**MANDATORY**)
 
 - To install R, follow the instructions [here](https://cran.r-project.org/)
 - To install the required packages in R, open R terminal and copy/paste:
@@ -9,7 +9,7 @@
 
 
 
-## Installation core JUPYTER Notebook (**RECOMENDED**):
+## Installation core JUPYTER Notebook (**RECOMENDED**)
 
 Install Anacoda:
 
@@ -27,7 +27,7 @@ Install Anacoda:
         - For Linux users:
             - You are ok
 
-## Install R modules for JUPYTER notebook:
+## Install R modules for JUPYTER (**RECOMENDED**)
     
 - For Windows users: 
 	- follow the instructions [here](https://irkernel.github.io/installation/#binary-panel)
@@ -38,7 +38,7 @@ Install Anacoda:
 
 
 
-# How to Run the notebooks
+# How to Run the notebooks (**RECOMENDED**)
 
 
 - Open the command line.
