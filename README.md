@@ -33,12 +33,17 @@ Running examples:
 After the lecture there will be a practice session. You are required to install R, and JUPYTER-R (optionally). 
 - Instructions can be found [here](./INSTALL.md)
 
-Practice:
+Practice (You can use the R package [DiceKriging](https://cran.r-project.org/web/packages/DiceKriging/index.html))
 - [Practice Catalytic Reaction 5D](./Practice_CatalyticReaction_5D.ipynb)
 - [Practice Piston 7D](./Practice_Piston_7D.ipynb)
 - [Practice Robot Arm 8D](./Practice_Robot_Arm_8D.ipynb)
 
-Solutions to the practice, will be available in the future
+Solutions (if you need to still some code):
+- [Practice Catalytic Reaction 5D](./Practice_CatalyticReaction_5D_solution.ipynb)
+- [Practice Piston 7D](./Practice_Piston_7D_solution.ipynb)
+- [Practice Robot Arm 8D](./Practice_Robot_Arm_8D_solution.ipynb)
+
+
 
 
 
