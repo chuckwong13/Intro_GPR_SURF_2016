@@ -16,13 +16,14 @@ The main topic of ths lecture is Gaussian Process regression: how to specify the
     + Chapters: 2, 4, 5.1, & 5.4.2
 - [Roustant, Olivier, David Ginsbourger, and Yves Deville. "DiceKriging, DiceOptim: Two R packages for the analysis of computer experiments by kriging-based metamodeling and optimization." (2012).](https://www.jstatsoft.org/article/view/v051i01/v51i01.pdf)
 
-## Installation of Required Software for practice
+## Installation of Required Software
 
 You are required to install R.
-- To install R, follow the instructions [here](https://cran.r-project.org/)
-- To install the required packages in R, open R terminal and copy/paste:
-	+ install.packages('DiceKriging', repos = "http://cran.us.r-project.org")
-	+ install.packages('lhs', repos = "http://cran.us.r-project.org")
+- Install R by following the instructions [here](https://cran.r-project.org/)
+- Install the required R packages: 
+	+ open R and copy/paste:
+		+ install.packages('DiceKriging', repos = "http://cran.us.r-project.org")
+		+ install.packages('lhs', repos = "http://cran.us.r-project.org")
 
 ## Slides and running example
 
