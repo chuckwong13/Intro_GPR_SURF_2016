@@ -14,10 +14,10 @@ July 8, 2016
 The main topic of ths lecture is Gaussian Process regression: how to specify the statistical model, how to train it, how to asses it, and how to perform model choice. 
 
 ### Readings :
-	- Rasmussen, Carl Edward. "Gaussian processes in machine learning." In Advanced lectures on machine learning, pp. 63-71. Springer Berlin Heidelberg, 2004.
-        + see http://www.GaussianProcess.org/gpml
-        + Chapters: 2, 4, 5.1, & 5.4.2
-	- Roustant, Olivier, David Ginsbourger, and Yves Deville. "DiceKriging, DiceOptim: Two R packages for the analysis of computer experiments by kriging-based metamodeling and optimization." (2012).
+- Rasmussen, Carl Edward. "Gaussian processes in machine learning." In Advanced lectures on machine learning, pp. 63-71. Springer Berlin Heidelberg, 2004.
+    + see http://www.GaussianProcess.org/gpml
+    + Chapters: 2, 4, 5.1, & 5.4.2
+- Roustant, Olivier, David Ginsbourger, and Yves Deville. "DiceKriging, DiceOptim: Two R packages for the analysis of computer experiments by kriging-based metamodeling and optimization." (2012).
 
 ## Slides and running example
 
