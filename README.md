@@ -25,6 +25,14 @@ You are required to install R.
 		+ install.packages('DiceKriging', repos = "http://cran.us.r-project.org")
 		+ install.packages('lhs', repos = "http://cran.us.r-project.org")
 
+You are required to install git.
+- Install git which is available from [here](https://git-scm.com/downloads)
+	+ Windows users: make sure you select that you want to use it from the Windows command prompt.
+
+You can download all the teaching and practice material, by:
+- running: git clone https://github.com/georgios-stats/Intro_GPR_SURF_2016.git
+- cd Intro_GPR_SURF_2016
+
 ## Slides and running example
 
 The slides of the lecture are available [here](./slides.pdf)
